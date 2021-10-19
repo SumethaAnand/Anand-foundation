@@ -1,0 +1,15 @@
+body{
+
+background-image: url("images/donate5.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+
+}
+
+
+
+input, select,textarea {
+    background-color: #e06d5b;
+  }
+
+  

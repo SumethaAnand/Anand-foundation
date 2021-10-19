@@ -1,0 +1,26 @@
+body
+{
+background-image:url(images/contact7.png);
+background-size: cover;
+ background-repeat:no-repeat;
+}
+
+
+.bi
+{
+margin-top: 50px;
+}
+
+h1{
+    font-family: 'Anton', sans-serif;
+    margin-left: 100px;
+    color:azure ;
+    text-transform: uppercase;  
+    text-shadow:3px 3px black;
+ }
+
+a,a:hover , a:focus, a:active{
+text-decoration: none !important;
+color: inherit;
+
+}
